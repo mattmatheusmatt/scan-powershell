@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto tem como intuito de mostrar o processo de criação de um codigo para escanear portas tcp.
+Este projeto tem como intuito mostrar o processo de criação de um código para escanear portas tcp.
 
 ## Links importantes
 
